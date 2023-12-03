@@ -1,3 +1,3 @@
 # Link to Github organization
-## was group project so we made an organization for it
+## Made an organization containing group assignments
 https://github.com/CS2640Assignments
